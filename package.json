@@ -1,0 +1,11 @@
+{
+  "name": "three-jsx-runtime",
+  "version": "0.0.5",
+  "description": "JSX runtime for three.js",
+  "main": "jsx-runtime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleksandr Dubenko",
+  "license": "ISC"
+}
